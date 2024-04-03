@@ -1,0 +1,19 @@
+input,
+button {
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 10px;
+}
+img {
+  border-radius: 500px;
+  box-shadow: 10px;
+}
+.img {
+  text-align: center;
+}
+div {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
